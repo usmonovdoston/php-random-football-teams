@@ -1,70 +1,70 @@
 [
   {
-    "first_name": "Omadbek",
+    "first_name": "Player 1",
+    "point": 8
+  },
+  {
+    "first_name": "Player 2",
     "point": 6
   },
   {
-    "first_name": "Doston",
+    "first_name": "Player 3",
+    "point": 3
+  },
+  {
+    "first_name": "Player 4",
+    "point": 5
+  },
+  {
+    "first_name": "Player 5",
+    "point": 10
+  },
+  {
+    "first_name": "Player 6",
+    "point": 5
+  },
+  {
+    "first_name": "Player 7",
+    "point": 7
+  },
+  {
+    "first_name": "Player 8",
+    "point": 4
+  },
+  {
+    "first_name": "Player 9",
+    "point": 9
+  },
+  {
+    "first_name": "Player 10",
+    "point": 3
+  },
+  {
+    "first_name": "Player 11",
+    "point": 8
+  },
+  {
+    "first_name": "Player 12",
+    "point": 3
+  },
+  {
+    "first_name": "Player 13",
+    "point": 9
+  },
+  {
+    "first_name": "Player 14",
+    "point": 2
+  },
+  {
+    "first_name": "Player 15",
     "point": 6
   },
   {
-    "first_name": "Otabek",
-    "point": 6
-  },
-  {
-    "first_name": "Jasurbek",
-    "point": 5
-  },
-  {
-    "first_name": "Ahrorbek",
-    "point": 5
-  },
-  {
-    "first_name": "Azizbek",
-    "point": 5
-  },
-  {
-    "first_name": "Abdulaziz va E'zozbek",
-    "point": 4
-  },
-  {
-    "first_name": "Ismoiljon",
-    "point": 4
-  },
-  {
-    "first_name": "Alisher",
-    "point": 4
-  },
-  {
-    "first_name": "Abdulhay",
-    "point": 3
-  },
-  {
-    "first_name": "Biloliddin",
-    "point": 3
-  },
-  {
-    "first_name": "Nurali",
-    "point": 3
-  },
-  {
-    "first_name": "Sardorbek",
-    "point": 2
-  },
-  {
-    "first_name": "Xasanboy",
-    "point": 2
-  },
-  {
-    "first_name": "Muhiddin",
-    "point": 2
-  },
-  {
-    "first_name": "Iqboljon",
+    "first_name": "Player 16",
     "point": 1
   },
   {
-    "first_name": "Shohjaxon",
-    "point": 1
+    "first_name": "Player 17",
+    "point": 10
   }
 ]
