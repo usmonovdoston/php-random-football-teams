@@ -86,7 +86,15 @@ $players = file_get_contents("players.json");
  */
 $r = new Randomer(json_decode($players,true));
 
-$groups = $r->randomSort(3);
+/**
+ * Get groups count from user
+ */
+$groupCount = (int)readline('Enter the amount of teams: ');
+
+if($groupCount <= 1)
+    die('The amount of teams must be greater than 1');
+
+$groups = $r->randomSort($groupCount);
 // print beauty
 if(!empty($groups) && is_iterable($groups)){
     foreach ($groups as $key => $group) {
