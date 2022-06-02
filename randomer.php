@@ -2,8 +2,6 @@
 
 class Randomer
 {
-    public $players;
-
     public function __construct($players)
     {
         $this->players = $players;
@@ -83,6 +81,9 @@ class Randomer
  */
 $players = file_get_contents("players.json");
 
+/**
+ * Create object Randomer
+ */
 $r = new Randomer(json_decode($players,true));
 
 $groups = $r->randomSort(3);
